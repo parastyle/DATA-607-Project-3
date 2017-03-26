@@ -1,3 +1,5 @@
+# Thank you yuanyuanshi https://github.com/yuanyuanshi/Data_Skills
+
 import re
 from nltk.corpus import stopwords
 from goose import Goose
